@@ -1,4 +1,4 @@
-- 👋 Hi, I’m SeulKi Jang
+- 👋 Hi, I’m SeulGi Jang
 - 🌱 I’m currently learning Spring
 - 📫 How to reach me seulgi7707@gmail.com
 
